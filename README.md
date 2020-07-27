@@ -1,3 +1,18 @@
+# Gardenboard
+
+This morning, I decided that I wanted to collect all of the gardening ideas that I have in one place. I had a bunch of tabs open with different flowers that I want to plant next spring, and I wanted to make sure that I captured all that information and didn't lose it.
+
+There were a few ways to go about this. Google Keep seemed like an obvious choice. However, I couldn't help but create a new React app and throw something together that would keep all the information I wanted in one place, exactly as I wanted it.
+
+![Gardenboard screenshot](https://pbs.twimg.com/media/Ed5UqunUEAICzyN?format=png)
+
+## To-dos:
+* More sorting options/better sorting.
+* An interface to add new items instead of editing the JSON file by hand.
+* Drag-and-drop reordering.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
