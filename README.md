@@ -6,7 +6,10 @@ There were a few ways to go about this. Google Keep seemed like an obvious choic
 
 ![Gardenboard screenshot](https://pbs.twimg.com/media/Ed5UqunUEAICzyN?format=png)
 
+[Demo](https://captainpainway.github.io/gardenboard/)
+
 ## To-dos:
+* Responsive app bar.
 * More sorting options/better sorting.
 * An interface to add new items instead of editing the JSON file by hand.
 * Drag-and-drop reordering.
