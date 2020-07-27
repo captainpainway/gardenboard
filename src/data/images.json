@@ -1,0 +1,175 @@
+[
+  {
+    "photo": "Floret_Dahlia_American-Dawn.jpg",
+    "name": "American Dawn Dahlia",
+    "links": [
+      "https://shop.floretflowers.com/collections/decorative/products/dahlia-american-dawn",
+      "https://www.dahliasbyjulie.com/collection/american-dawn"
+    ],
+    "location": "Back fence",
+    "seasons": ["Summer", "Fall"],
+    "type": "Perennial",
+    "categories": ["Flower", "Dahlia"],
+    "colors": ["peach", "coral", "purple"]
+  },
+  {
+    "photo": "Floret_Dahlia_Jowey-Winnie.jpg",
+    "name": "Jowey Winnie Dahlia",
+    "links": [
+      "https://shop.floretflowers.com/collections/ball/products/dahlia-jowey-winnie"
+    ],
+    "location": "Back fence",
+    "seasons": ["Summer", "Fall"],
+    "type": "Perennial",
+    "categories": ["Flower", "Dahlia"],
+    "colors": ["pink", "coral", "purple"]
+  },
+  {
+    "photo": "honey_dijon_rose.png",
+    "name": "Honey Dijon rose",
+    "links": [
+      "https://www.menagerieflower.com/bare-root-roses/honey-dijon"
+    ],
+    "location": "Right garden",
+    "seasons": ["Spring", "Summer", "Fall"],
+    "type": "Perennial",
+    "categories": ["Flower", "Rose"],
+    "colors": ["yellow", "taupe"]
+  },
+  {
+    "photo": "winchester_cathedral_rose.png",
+    "name": "Winchester Cathedral rose",
+    "links": [
+      "https://www.menagerieflower.com/bare-root-roses/winchester-cathedral-david-austin"
+    ],
+    "location": "Kitchen garden",
+    "seasons": ["Spring", "Summer", "Fall"],
+    "type": "Perennial",
+    "categories": ["Flower", "Rose"],
+    "colors": ["white"]
+  },
+  {
+    "photo": "fragaria_berried_treasure_red.jpg",
+    "name": "Berried Treasure strawberries",
+    "links": [
+      "https://www.provenwinners.com/plants/fragaria/berried-treasure-red-strawberry-fragaria-ananassa"
+    ],
+    "location": "Planter box",
+    "seasons": ["Summer", "Fall"],
+    "type": "Perennial",
+    "categories": ["Fruit", "Flower", "Edible"],
+    "colors": ["red"]
+  },
+  {
+    "photo": "amaranthus-love-lies-bleeding.jpeg",
+    "name": "Love Lies Bleeding Amaranth",
+    "links": [
+      "https://ferrymorse.com/products/amaranth-love-lies-bleeding"
+    ],
+    "location": "Black urn planter",
+    "seasons": ["Summer", "Fall"],
+    "decor": "Halloween",
+    "type": "Annual",
+    "categories": ["Flower", "Edible"],
+    "colors": ["red", "burgundy"]
+  },
+  {
+    "photo": "zahara-starlight-rose.jpg",
+    "name": "Zahara Starlight Rose zinnia",
+    "links": [
+      "https://parkseed.com/zahara-starlight-rose-zinnia-seeds/p/51991-PK-P1/"
+    ],
+    "location": "Front garden",
+    "seasons": ["Spring", "Summer", "Fall"],
+    "type": "Annual",
+    "categories": ["Flower"],
+    "colors": ["white", "red", "yellow"]
+  },
+  {
+    "photo": "supercal-petchoa.jpg",
+    "name": "SuperCal Petchoa",
+    "links": [
+      "https://www.monrovia.com/plant-catalog/plants/4175/supercal-petchoa/"
+    ],
+    "location": "Hanging basket",
+    "seasons": ["Spring", "Summer", "Fall"],
+    "type": "Annual",
+    "categories": ["Flower"],
+    "colors": ["yellow", "white", "pink", "red", "purple"]
+  },
+  {
+    "photo": "coleus-kong-scarlet.jpg",
+    "name": "Kong Scarlet Coleus",
+    "links": [
+      "https://www.swallowtailgardenseeds.com/annuals/coleus/kong-scarlet-coleus-seeds.html"
+    ],
+    "location": "Left garden",
+    "seasons": ["Spring", "Summer", "Fall"],
+    "type": "Perennial",
+    "categories": ["Foliage"],
+    "colors": ["green", "burgundy"]
+  },
+  {
+    "photo": "Celosia_Plume_Mix_Floret.jpg",
+    "name": "Celosia Pampas Plume Mix",
+    "links": [
+      "https://shop.floretflowers.com/collections/fillers/products/celosia-plume-mix"
+    ],
+    "location": "Right garden",
+    "seasons": ["Summer", "Fall"],
+    "type": "Annual",
+    "categories": ["Flower"],
+    "colors": ["magenta", "pink", "red", "yellow", "green"]
+  },
+  {
+    "photo": "Calendula_Bronze_Beauty.jpg",
+    "name": "Bronze Beauty Calendula",
+    "links": [
+      "https://shop.floretflowers.com/collections/edibles/products/calendula-bronze-beauty"
+    ],
+    "location": "Kitchen garden",
+    "seasons": ["Spring", "Summer"],
+    "type": "Annual",
+    "categories": ["Flower", "Edible"],
+    "colors": ["white", "cream", "blush", "bronze"]
+  },
+  {
+    "photo": "Fairytale_Floret.jpg",
+    "name": "Fairytale ornamental squash",
+    "links": [
+      "https://shop.floretflowers.com/collections/edibles/products/ornamental-squash-fairytale"
+    ],
+    "location": "Right garden",
+    "seasons": ["Fall"],
+    "decor": "Halloween",
+    "type": "Annual",
+    "categories": ["Fruit", "Edible"],
+    "colors": ["orange", "bronze"]
+  },
+  {
+    "photo": "Floret_Zinnia_Persian-Carpet.jpg",
+    "name": "Persian Carpet zinnia",
+    "links": [
+      "https://shop.floretflowers.com/collections/zinnia/products/zinnia-persian-carpet-mix",
+      "https://parkseed.com/persian-carpet-mix-mexican-zinnia-seeds/p/02188-PK-P1/"
+    ],
+    "location": "Right garden",
+    "seasons": ["Spring", "Summer", "Fall"],
+    "decor": "Halloween",
+    "type": "Annual",
+    "categories": ["Flower"],
+    "colors": ["yellow", "red", "orange"]
+  },
+  {
+    "photo": "Cosmos_Cupcake_Blush_Floret.jpg",
+    "name": "Cupcake Blush cosmos",
+    "links": [
+      "https://shop.floretflowers.com/collections/cosmos/products/cosmos-cupcake-blush"
+    ],
+    "location": "Kitchen garden",
+    "seasons": ["Summer", "Fall"],
+    "type": "Annual",
+    "categories": ["Flower"],
+    "colors": ["white", "pink", "blush"]
+  }
+]
